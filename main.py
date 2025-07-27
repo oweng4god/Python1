@@ -1,0 +1,5 @@
+print("My name is Emmanuel")
+print("I am 9 years old")
+print("I come from Nigeria")
+print("I like playing Football")
+print("My hobbies are sweeping and washing")
